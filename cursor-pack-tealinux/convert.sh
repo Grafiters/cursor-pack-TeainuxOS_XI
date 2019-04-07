@@ -23,7 +23,7 @@ if [ ! -d "$OUTPUT" ]; then
 fi
 
 echo -ne "Generating cursor theme...\\r"
-for CUR in config/*.svg; do
+for CUR in config/*.cursor; do
 	BASENAME="$CUR"
 	BASENAME="${BASENAME##*/}"
 	BASENAME="${BASENAME%.*}"
@@ -53,6 +53,6 @@ echo -ne "Generating Theme Index...\\r"
 INDEX="$OUTPUT/../index.theme"
 if [ ! -e "$OUTPUT/../$INDEX" ]; then
 	touch "$INDEX"
-	echo -e "[Icon Theme]\nName=Tea Cursor\n" > "$INDEX"
+	echo -e "[Icon Theme]\nName=Captain Frank\n" > "$INDEX"
 fi
 echo -e "Generating Theme Index... DONE"
