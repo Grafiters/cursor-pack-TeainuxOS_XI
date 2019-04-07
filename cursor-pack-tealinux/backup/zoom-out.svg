@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7.9639583mm"
+   height="7.9375mm"
+   viewBox="0 0 7.9639583 7.9375"
+   version="1.1"
+   id="svg581"
+   sodipodi:docname="zoom-out.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs575" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="36.042051"
+     inkscape:cy="7.001798"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata578">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-144.4984,-106.75986)">
+    <g
+       id="g33">
+      <g
+         id="g24">
+        <g
+           id="g7664"
+           transform="matrix(0.28395175,0,0,0.28589749,189.83483,185.51534)">
+          <path
+             sodipodi:nodetypes="ccccccccccc"
+             style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.16715598;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -148.70462,-273.88471 c -2.486,-0.0362 -4.88081,0.93531 -6.63887,2.69335 -3.59249,3.59249 -3.59249,9.41707 0,13.00956 3.20397,3.19595 8.25652,3.58691 11.914,0.92189 l 7.78144,7.58251 c 0.52192,0.52192 1.36221,0.52192 1.88413,0 l 0.13229,-0.13282 c 0.52192,-0.52192 0.52192,-1.36221 0,-1.88412 l -7.77679,-7.57836 c 2.66675,-3.65926 2.27416,-8.71496 -0.92553,-11.91866 -1.69234,-1.69232 -3.9776,-2.65847 -6.37067,-2.69335 z"
+             id="path6812"
+             inkscape:connector-curvature="0" />
+          <circle
+             r="7.4859624"
+             cy="-292.40643"
+             cx="81.916656"
+             id="circle6814"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13602595;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             transform="rotate(-45)" />
+          <rect
+             ry="0.74835467"
+             rx="0.74835467"
+             y="-265.80618"
+             x="-152.31142"
+             height="2.2395566"
+             width="6.9453125"
+             id="rect6816"
+             style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.20996609;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.20996609;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect7658"
+             width="6.9453125"
+             height="2.2395566"
+             x="-152.31142"
+             y="-265.80618"
+             rx="0.74835467"
+             ry="0.74835467" />
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect16"
+           width="7.9639583"
+           height="7.9375"
+           x="144.4984"
+           y="106.75986" />
+      </g>
+    </g>
+  </g>
+</svg>
