@@ -14,7 +14,7 @@
    viewBox="0 0 15.000001 15"
    version="1.1"
    id="svg581"
-   sodipodi:docname="normal.cur.svg"
+   sodipodi:docname="right_ptr.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs575" />
@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="16.957909"
+     inkscape:cx="-4.3815636"
      inkscape:cy="24.761222"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -77,7 +77,7 @@
      id="layer1"
      transform="translate(-140.98037,-103.22861)">
     <g
-       transform="matrix(0.56098422,0,0,0.56098422,65.508419,48.341446)"
+       transform="matrix(-0.56098422,0,0,0.56098422,231.90287,48.341446)"
        id="layer1-3"
        inkscape:label="Layer 1">
       <g
