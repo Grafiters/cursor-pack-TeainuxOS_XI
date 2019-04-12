@@ -1,6 +1,6 @@
 ## TEA CURSORS PACK
 
-![](update.PNG)
+![](../update.PNG)
 
 x-cursor theme ini terinspirasi dari cursor pack Captaine Cursors
 -> (https://github.com/ChrisP4/captain-frank-cursors/tree/master/src/svg)
