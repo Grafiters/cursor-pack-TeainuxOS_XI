@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Captain Frank, Capitaine cursors and elementary (redesigned for Linux Mint) cursors  based cursors.
-# Copyright (c) 2016 Chris Escarra <chrisescarra@keemail.me>
-
-# generate pixmaps from svg source
 SRC=$PWD/src
 
 cd "$SRC"
@@ -59,6 +55,6 @@ echo -ne "Generating Theme Index...\\r"
 INDEX="$OUTPUT/../index.theme"
 if [ ! -e "$OUTPUT/../$INDEX" ]; then
 	touch "$INDEX"
-	echo -e "[Icon Theme]\nName=Captain Frank\n" > "$INDEX"
+	echo -e "[Icon Theme]\nName=Tea Cursor\n" > "$INDEX"
 fi
 echo -e "Generating Theme Index... DONE"
