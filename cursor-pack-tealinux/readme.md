@@ -24,12 +24,17 @@ pertama
 ```
 sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Tea-cursor/cursor.theme 65
 ```
-
+atau
+```
+gsettings set org.gnome.desktop.interface cursor-theme "Tea-Cursor" & sudo ln -fs /usr/share/icons/Tea-Cursor/cursor.theme /etc/alternatives/x-cursor-theme
+```
 setelah itu tinggal di update dengan
 ```
 sudo update-alternatives --config x-cursor-theme
 ```
-setelah reboot anda
+kemudian edit default yang berada di `/etc/alternatives/x-cursor-theme` ubah isinya menjadi `Inherits=Tea-Cursor`
+
+setelah itu jalankan `sudo reboot`
 
 ## Build From Source
 apabila anda ingin mengganti atau mengedit cursor ini , anda bisa compile cursor sendiri dengan source yang ada
