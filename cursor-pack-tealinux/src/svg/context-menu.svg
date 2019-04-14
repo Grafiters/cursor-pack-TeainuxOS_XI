@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="context.svg">
+   sodipodi:docname="context-menu.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
      inkscape:cx="25.288408"
-     inkscape:cy="18.917979"
+     inkscape:cy="17.132265"
      inkscape:document-units="px"
      inkscape:current-layer="g12827"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,49 +61,11 @@
        inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
-      <g
-         transform="matrix(1.451529,0,0,1.451529,-124.31853,851.30982)"
-         id="layer1-3"
-         inkscape:label="Layer 1"
-         style="stroke-width:1.4607048">
-        <g
-           transform="matrix(0.40015291,0,0,0.40015291,252.28275,294.2986)"
-           id="g6439"
-           style="stroke-width:1.4607048">
-          <g
-             id="g1403"
-             transform="matrix(0.55387092,-0.30915354,0.30915289,0.55386975,-315.23134,-665.23842)"
-             style="fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:1.4607048;stroke-opacity:1">
-            <path
-               style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:6.61750555;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:13.23500976, 13.23500976;stroke-dashoffset:0;stroke-opacity:1"
-               inkscape:transform-center-x="-0.099962087"
-               inkscape:transform-center-y="-3.704883"
-               d="m -67.715544,338.14697 c 0.270254,9.64254 -31.999184,11.139 -32.302276,0.32477 -0.15489,-11.46015 9.345867,-42.81002 15.53642,-42.89369 6.855959,-0.0927 16.625916,32.21472 16.765856,42.56892 z"
-               id="path517"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cccc" />
-            <path
-               sodipodi:nodetypes="cccc"
-               inkscape:connector-curvature="0"
-               id="path1327"
-               d="m -78.01277,338.3083 c -4.28458,-1.09339 -8.34288,-1.21996 -12.08603,0 0,4.27821 0.18612,17.37656 6.04301,17.37656 5.85407,0 6.04302,-13.5112 6.04302,-17.37656 z"
-               inkscape:transform-center-y="1.3827461"
-               style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:2.47016954;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.94033874, 4.94033874;stroke-dashoffset:0;stroke-opacity:1" />
-          </g>
-          <path
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.21408212;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:2.42816399, 2.42816399;stroke-dashoffset:0;stroke-opacity:1"
-             d="m -254.19409,-446.93941 c 1.0591,1.5674 1.16027,2.28328 1.01412,2.36766 -0.14598,0.0847 -0.71555,-0.36118 -1.54341,-2.06208 l -1.89486,-3.89316 z"
-             id="path1399"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="scscs" />
-          <path
-             sodipodi:nodetypes="cccc"
-             inkscape:connector-curvature="0"
-             id="path40"
-             d="m -271.47048,-472.82442 c 2.83119,9.16025 4.54045,18.74242 11.54852,26.9328 -2.72127,0.11822 -4.61129,1.61028 -6.77228,-3.39287 -1.93137,-4.82174 -4.57217,-15.19692 -4.77624,-23.53993 z"
-             style="opacity:0.71300001;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.38647819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        </g>
-      </g>
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 9.0625 3.2519531 C 8.8231345 3.2586149 8.6133556 3.3088569 8.4375 3.4101562 C 5.896885 4.8735863 9.2028914 20.031175 11.912109 24.734375 C 12.886501 26.370617 15.296972 26.280452 17.818359 25.324219 C 19.182424 27.218909 20.967297 29.015871 22.486328 28.167969 C 24.006931 27.31922 23.373758 24.782991 22.470703 22.617188 C 24.685677 20.815606 26.103719 18.669947 25.195312 17.144531 C 22.900531 13.160719 12.652983 3.1520261 9.0625 3.2519531 z "
+         transform="translate(74.344549,996.48423)"
+         id="path517" />
     </g>
   </g>
 </svg>

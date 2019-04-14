@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,53 +61,11 @@
        inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
-      <rect
-         y="1008.7111"
-         x="89.92498"
-         height="8.0114746"
-         width="1.6059871"
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 90.705877,999.4873 c -0.755283,-9e-4 -1.969203,4.904 -1.970703,6.7051 0.0055,0.5245 0.385603,0.8715 0.90625,1.0566 v 3.8086 H 85.83283 c -0.185022,-0.5207 -0.530238,-0.9007 -1.054687,-0.9062 -1.801263,0 -6.706031,1.2154 -6.705078,1.9707 0.0015,0.8365 5.09912,1.972 6.726562,1.9707 0.4691,0.01 0.791644,-0.3872 0.986328,-0.9063 h 3.855469 v 3.8067 c -0.520673,0.185 -0.900754,0.532 -0.90625,1.0566 0.0015,1.8013 1.21542,6.7061 1.970703,6.7051 0.836465,0 1.971946,-5.0992 1.970703,-6.7266 v -0 c 0.0051,-0.469 -0.387308,-0.7897 -0.90625,-0.9844 v -3.8555 h 3.855469 c 0.194684,0.5191 0.517228,0.9115 0.986328,0.9063 1.62744,0 6.725563,-1.1342 6.726563,-1.9707 9.5e-4,-0.7553 -4.903814,-1.9707 -6.705079,-1.9707 -0.524466,0.01 -0.871623,0.3855 -1.05664,0.9062 H 91.77033 v -3.8555 c 0.519115,-0.1946 0.911387,-0.5172 0.90625,-0.9863 0.0012,-1.6275 -1.134238,-6.7285 -1.970703,-6.7285 z"
          id="rect1643"
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:11.57434845;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:23.14869758, 23.14869758;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.75067925;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.50135841, 1.50135841;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:transform-center-x="-0.12495414"
-         inkscape:transform-center-y="-4.6311261"
-         d="m 92.21446,1008.4031 c 0.01252,1.1436 -2.959573,1.2655 -2.973012,-0.017 0.0011,-1.3588 0.917185,-5.0591 1.486975,-5.0584 0.631035,0 1.486975,3.8477 1.486037,5.0755 z"
-         id="path1645"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1649"
-         d="m 92.21446,1017.3136 c 0.01252,-1.1436 -2.959573,-1.2655 -2.973012,0.017 0.0011,1.3589 0.917185,5.0592 1.486975,5.0585 0.631035,0 1.486975,-3.8478 1.486037,-5.0755 z"
-         inkscape:transform-center-y="-4.6311261"
-         inkscape:transform-center-x="-0.12495414"
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.75067925;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.50135841, 1.50135841;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         transform="rotate(90)"
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:11.57434845;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:23.14869758, 23.14869758;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1653"
-         width="1.6059866"
-         height="8.0114765"
-         x="1012.0554"
-         y="-94.875221" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1655"
-         d="m 95.18322,1014.3448 c -1.143609,0.013 -1.265507,-2.9595 0.01705,-2.973 1.358885,0 5.05912,0.9172 5.0584,1.487 -10e-4,0.6311 -3.847701,1.487 -5.075452,1.486 z"
-         inkscape:transform-center-y="-4.6311261"
-         inkscape:transform-center-x="-0.12495414"
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.75067925;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.50135841, 1.50135841;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.75067925;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.50135841, 1.50135841;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:transform-center-x="-0.12495414"
-         inkscape:transform-center-y="-4.6311261"
-         d="m 86.27272,1014.3448 c 1.143609,0.013 1.265507,-2.9595 -0.01705,-2.973 -1.358884,0 -5.059123,0.9172 -5.058404,1.487 0.0011,0.6311 3.847705,1.487 5.075457,1.486 z"
-         id="path1659"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

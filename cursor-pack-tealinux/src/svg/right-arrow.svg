@@ -26,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="24.037682"
-     inkscape:cy="17.036923"
+     inkscape:cx="22.780006"
+     inkscape:cy="17.476088"
      inkscape:document-units="px"
      inkscape:current-layer="g12827"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,22 +61,11 @@
        inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
-      <rect
-         y="85.853584"
-         x="-1012.5006"
-         height="5.3718972"
-         width="2.9076128"
-         id="rect6566"
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:10.97787094;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:21.9557423, 21.9557423;stroke-dashoffset:0;stroke-opacity:1"
-         transform="rotate(-90)" />
       <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path6572"
-         d="m 92.295493,1008.3555 c -2.070515,-0.023 -2.291193,5.3583 0.03184,5.3826 2.460249,0 9.159497,-1.6605 9.158177,-2.6921 -0.002,-1.1425 -6.966225,-2.6921 -9.189013,-2.6905 z"
-         inkscape:transform-center-y="-4.6311261"
-         inkscape:transform-center-x="0.12495402"
-         style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:0.7119934;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.42398674, 1.42398674;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 19.746094 11.871094 C 18.917563 11.862018 18.32046 12.530511 17.982422 13.453125 L 11.509766 13.453125 L 11.509766 17.171875 L 17.941406 17.171875 C 18.264664 18.081558 18.870542 18.74431 19.787109 18.753906 C 22.932977 18.753906 31.499727 16.6316 31.498047 15.3125 C 31.495047 13.8516 22.590278 11.869094 19.748047 11.871094 L 19.746094 11.871094 z "
+         transform="translate(74.344549,996.48423)"
+         id="rect6566" />
     </g>
   </g>
 </svg>

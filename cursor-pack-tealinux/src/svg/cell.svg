@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,26 +58,11 @@
        transform="translate(-315.05933,61.329573)"
        style="display:inline"
        id="g6972">
-      <g
-         id="g21"
-         transform="matrix(5.7221271,0,0,5.7221287,-518.36437,340.9516)"
-         style="stroke-width:0.66051084">
-        <rect
-           style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:2.02273464;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.04547, 4.04547;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1643"
-           width="0.67402661"
-           height="3.362385"
-           x="148.14336"
-           y="109.04742" />
-        <rect
-           y="-150.16156"
-           x="110.39159"
-           height="3.362386"
-           width="0.67402643"
-           id="rect1653"
-           style="opacity:1;fill:#49bf4e;fill-opacity:1;stroke:none;stroke-width:2.02273464;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.04547, 4.04547;stroke-dashoffset:0;stroke-opacity:1"
-           transform="rotate(90)" />
-      </g>
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 13.751953 3.8183594 L 13.751953 13.328125 L 4.2441406 13.328125 L 4.2441406 18.095703 L 13.751953 18.095703 L 13.751953 27.605469 L 18.521484 27.605469 L 18.521484 18.095703 L 28.029297 18.095703 L 28.029297 13.328125 L 18.521484 13.328125 L 18.521484 3.8183594 L 13.751953 3.8183594 z "
+         transform="translate(315.05933,959.03263)"
+         id="rect1643" />
     </g>
   </g>
 </svg>
