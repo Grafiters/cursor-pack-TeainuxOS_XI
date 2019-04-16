@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="left-arrow.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dcdcdc"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="24.037682"
+     inkscape:cy="17.036923"
+     inkscape:document-units="px"
+     inkscape:current-layer="g12827"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       transform="translate(-74.344549,23.877974)"
+       style="display:inline"
+       id="g12827"
+       inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
+       inkscape:export-xdpi="429.86514"
+       inkscape:export-ydpi="429.86514">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000007;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 15.544922 11.302734 C 12.262796 11.300334 1.9793625 13.588391 1.9765625 15.275391 C 1.9746145 16.798691 11.865291 19.25 15.498047 19.25 C 16.556007 19.238958 17.253542 18.473624 17.626953 17.423828 L 25.056641 17.423828 L 25.056641 13.130859 L 17.582031 13.130859 C 17.191746 12.064895 16.502015 11.292091 15.544922 11.302734 z "
+         transform="translate(74.344549,996.48423)"
+         id="rect6566" />
+    </g>
+  </g>
+</svg>

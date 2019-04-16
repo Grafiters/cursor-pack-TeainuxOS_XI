@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="copy.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dcdcdc"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="30.250736"
+     inkscape:cy="21.650045"
+     inkscape:document-units="px"
+     inkscape:current-layer="g12827"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       transform="translate(-74.344549,23.877974)"
+       style="display:inline"
+       id="g12827"
+       inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
+       inkscape:export-xdpi="429.86514"
+       inkscape:export-ydpi="429.86514">
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 4.9394531 2.5429688 C 4.7075805 2.5494224 4.5043352 2.5991369 4.3339844 2.6972656 C 1.8728994 4.1150056 5.0767609 18.797516 7.7011719 23.353516 C 8.6452431 24.938842 10.978904 24.850633 13.421875 23.923828 C 14.743296 25.759426 16.471714 27.501152 17.943359 26.679688 C 19.416205 25.85766 18.802372 23.400616 17.927734 21.302734 C 20.0743 19.557281 21.448549 17.478021 20.568359 16 C 18.345412 12.140875 8.4175427 2.4461642 4.9394531 2.5429688 z "
+         transform="translate(74.344549,996.48423)"
+         id="path6498" />
+      <g
+         id="g866">
+        <path
+           id="rect6532"
+           transform="translate(74.344549,996.48423)"
+           d="M 24.619141 20.175781 C 24.382961 20.175581 24.004348 21.710137 24.003906 22.273438 C 24.005609 22.437739 24.126603 22.540503 24.287109 22.599609 L 24.287109 23.798828 L 23.087891 23.798828 C 23.029638 23.638836 22.928145 23.517306 22.765625 23.515625 C 22.202349 23.516025 20.66767 23.896612 20.667969 24.132812 C 20.66841 24.394212 22.262564 24.748447 22.771484 24.748047 C 22.917528 24.748047 23.01907 24.626139 23.080078 24.464844 L 24.287109 24.464844 L 24.287109 25.666016 C 24.126603 25.725122 24.005609 25.827886 24.003906 25.992188 C 24.004348 26.555488 24.382961 28.088191 24.619141 28.087891 C 24.880721 28.087591 25.234755 26.493375 25.234375 25.984375 L 25.234375 25.978516 C 25.235925 25.83156 25.114037 25.730553 24.951172 25.669922 L 24.951172 24.464844 L 26.158203 24.464844 C 26.219214 24.626139 26.320754 24.748047 26.466797 24.748047 C 26.975707 24.748447 28.569883 24.394212 28.570312 24.132812 C 28.570612 23.896612 27.035926 23.516025 26.472656 23.515625 C 26.310167 23.517306 26.208628 23.638836 26.150391 23.798828 L 24.951172 23.798828 L 24.951172 22.59375 C 25.114037 22.533118 25.235925 22.432112 25.234375 22.285156 L 25.234375 22.279297 C 25.234755 21.770397 24.880721 20.176181 24.619141 20.175781 z "
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1" />
+        <circle
+           r="4.7260776"
+           cy="1020.6166"
+           cx="98.963715"
+           id="path29"
+           style="fill:none;fill-opacity:1;stroke:#000010;stroke-width:0.189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
