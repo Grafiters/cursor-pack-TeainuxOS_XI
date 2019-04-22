@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="24.658331"
-     inkscape:cy="15.373052"
+     inkscape:zoom="11.313709"
+     inkscape:cx="16.619356"
+     inkscape:cy="23.582225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,18 +56,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 5.1042303,1022.5296 c -0.2128329,0 -0.4004048,0.053 -0.5567676,0.1445 -2.2589987,1.3195 0.6825315,14.9865 3.0914445,19.2277 0.8664997,1.4758 3.0086148,1.3943 5.2508418,0.5316 1.212924,1.7088 2.798787,3.3302 4.149611,2.5654 1.352573,-0.7655 0.791147,-3.0545 -0.01226,-5.0081 1.968552,-1.6244 3.231439,-3.5562 2.423939,-4.9313 -2.040434,-3.5927 -11.1542904,-12.62 -14.3467839,-12.5298 z"
-       id="path6441"
-       inkscape:connector-curvature="0" />
     <g
        id="g1744"
        transform="matrix(0.72813293,0,0,0.72812542,0.20873974,282.46905)"
        style="stroke-width:1.37338269" />
     <g
        id="g19"
-       transform="rotate(133.54194,24.779757,1041.4804)">
+       transform="matrix(-0.9843808,1.0358014,-1.0358014,-0.9843808,1124.9137,2039.7578)">
       <circle
          r="5.6093745"
          cy="1040.5966"
@@ -124,6 +119,16 @@
          d="m 21.900774,1041.7822 h -1.650758 l 0.825379,-1.5581 z"
          inkscape:transform-center-y="-0.540592"
          style="fill:#00a3ff;fill-opacity:1;stroke:none;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="layer1-3"
+       inkscape:label="Layer 1"
+       transform="translate(1.3926183e-8,-0.0146449)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path517"
+         d="m 2.8227259,1022.0249 c -0.1672027,0 -0.3143921,0.039 -0.4372317,0.1101 -1.774683,1.0209 0.5355459,11.5952 2.4280028,14.8761 0.680628,1.1415 2.363779,1.0779 4.125007,0.4108 0.9528363,1.3216 2.200387,2.5756 3.261476,1.9841 1.062191,-0.592 0.61852,-2.3603 -0.0123,-3.8712 1.548063,-1.2569 2.539436,-2.7549 1.904692,-3.8192 -1.602962,-2.7793 -8.761606,-9.7609 -11.2696485,-9.6911 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>

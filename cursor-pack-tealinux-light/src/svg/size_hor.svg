@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="size_hor.svg">
+   sodipodi:docname="col-resize.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="21.956706"
-     inkscape:cy="16.218037"
+     inkscape:zoom="15.839192"
+     inkscape:cx="20.146382"
+     inkscape:cy="14.409176"
      inkscape:document-units="px"
      inkscape:current-layer="g12827"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -62,10 +62,10 @@
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
       <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 8.8046875 13.054688 C 6.6647665 13.054688 0.83675763 14.499284 0.83789062 15.396484 C 0.83959062 16.390284 6.8966601 17.737828 8.8300781 17.736328 C 9.3940396 17.742591 9.8013614 17.288381 10.03125 16.660156 L 21.662109 16.660156 C 21.891998 17.288381 22.29932 17.742591 22.863281 17.736328 C 24.796691 17.737828 30.853469 16.390284 30.855469 15.396484 C 30.856599 14.499284 25.028602 13.054688 22.888672 13.054688 C 22.265778 13.061226 21.854616 13.512537 21.634766 14.130859 L 10.058594 14.130859 C 9.8387435 13.512537 9.4275808 13.061226 8.8046875 13.054688 z "
-         transform="translate(74.344549,996.48423)"
-         id="rect1704" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 85.902808,1011.0078 c -1.349756,0 -5.025776,0.9112 -5.025062,1.4771 0.0011,0.6268 3.821573,1.4768 5.041078,1.4758 0.355718,0 0.612637,-0.2825 0.757639,-0.6788 h 7.336172 c 0.145002,0.3963 0.401921,0.6827 0.75764,0.6788 1.219499,0 5.039817,-0.849 5.041077,-1.4758 7.08e-4,-0.5659 -3.6753,-1.4771 -5.025062,-1.4771 -0.39289,0 -0.652231,0.2887 -0.790902,0.6787 h -7.301677 c -0.138671,-0.39 -0.398012,-0.6746 -0.790903,-0.6787 z"
+         id="rect1704"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

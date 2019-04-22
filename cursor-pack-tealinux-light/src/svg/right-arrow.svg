@@ -11,34 +11,34 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
-   viewBox="0 0 32 32.000001"
-   id="svg2"
+   id="svg6394"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   viewBox="0 0 32 32"
    sodipodi:docname="right-arrow.svg">
   <defs
-     id="defs4" />
+     id="defs6396" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#dcdcdc"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="27.830769"
-     inkscape:cy="17.476088"
+     inkscape:zoom="15.836083"
+     inkscape:cx="13.890634"
+     inkscape:cy="16.871543"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:current-layer="g12827"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata7">
+     id="metadata6399">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -50,22 +50,13 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1020.3622)">
-    <g
-       transform="translate(-74.344549,23.877974)"
-       style="display:inline"
-       id="g12827"
-       inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
-       inkscape:export-xdpi="429.86514"
-       inkscape:export-ydpi="429.86514">
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000003;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 93.585567,1008.3553 c -0.828531,-0.01 -1.425634,0.6594 -1.763672,1.5821 h -6.472656 v 3.7187 h 6.43164 c 0.323258,0.9097 0.929136,1.5724 1.845703,1.582 3.145868,0 11.712618,-2.1223 11.710938,-3.4414 -0.003,-1.4609 -8.907769,-3.4434 -11.75,-3.4414 z"
-         id="rect6566"
-         inkscape:connector-curvature="0" />
-    </g>
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 30.884813,16.001119 c -0.0018,1.065131 -6.494446,2.509145 -8.566784,2.507575 h -0.0011 c -0.604232,0.0066 -1.039434,-0.480021 -1.285878,-1.152935 H 16.310438 V 14.644186 H 21.0024 c 0.235825,-0.66251 0.67653,-1.14594 1.344327,-1.152935 2.293727,0.0018 8.539362,1.548074 8.538133,2.509868 z"
+       id="rect6566"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

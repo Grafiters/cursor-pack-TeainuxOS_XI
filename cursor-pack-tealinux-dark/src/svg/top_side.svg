@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="34.534413"
-     inkscape:cy="14.506868"
+     inkscape:cx="21.089267"
+     inkscape:cy="11.600633"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -55,9 +55,9 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 15.679688 0.43945312 C 14.650002 0.43945312 13.254328 6.7193562 13.255859 8.7226562 C 13.249459 9.3069592 13.720202 9.7285859 14.371094 9.9667969 L 14.371094 22.017578 C 13.720202 22.255802 13.249459 22.677353 13.255859 23.261719 C 13.254328 25.265019 14.650002 31.542969 15.679688 31.542969 C 16.60944 31.544169 18.105722 25.506363 18.107422 23.289062 C 18.100656 22.643259 17.633282 22.218006 16.992188 21.990234 L 16.992188 9.9941406 C 17.633282 9.7663911 18.100656 9.3391318 18.107422 8.6933594 C 18.105722 6.4760594 16.60944 0.43835313 15.679688 0.43945312 z "
-       transform="translate(0,1020.3622)"
-       id="rect6566" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 16.595706,1029.2912 c -0.725999,0 -1.710045,4.4278 -1.708966,5.8402 -0.0045,0.412 0.327394,0.7093 0.786317,0.8772 v 8.4966 c -0.458923,0.168 -0.790829,0.4652 -0.786317,0.8773 -0.0011,1.4124 0.982967,5.8388 1.708966,5.8388 0.655538,8e-4 1.71052,-4.2562 1.711718,-5.8196 -0.0048,-0.4553 -0.334301,-0.7551 -0.786316,-0.9157 v -8.4581 c 0.452015,-0.1606 0.781546,-0.4618 0.786316,-0.9171 -0.0012,-1.5634 -1.05618,-5.8204 -1.711718,-5.8196 z"
+       id="rect6566"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -11,34 +11,34 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
-   viewBox="0 0 32 32.000001"
-   id="svg2"
+   id="svg6394"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   viewBox="0 0 32 32"
    sodipodi:docname="left-arrow.svg">
   <defs
-     id="defs4" />
+     id="defs6396" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#dcdcdc"
+     pagecolor="#dae3e5"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="24.037682"
-     inkscape:cy="17.036923"
+     inkscape:zoom="15.836083"
+     inkscape:cx="19.875281"
+     inkscape:cy="17.485342"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:current-layer="g12827"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata7">
+     id="metadata6399">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -50,22 +50,13 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1020.3622)">
-    <g
-       transform="translate(-74.344549,23.877974)"
-       style="display:inline"
-       id="g12827"
-       inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
-       inkscape:export-xdpi="429.86514"
-       inkscape:export-ydpi="429.86514">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 15.544922 11.302734 C 12.262796 11.300334 1.9793625 13.588391 1.9765625 15.275391 C 1.9746145 16.798691 11.865291 19.25 15.498047 19.25 C 16.556007 19.238958 17.253542 18.473624 17.626953 17.423828 L 25.056641 17.423828 L 25.056641 13.130859 L 17.582031 13.130859 C 17.191746 12.064895 16.502015 11.292091 15.544922 11.302734 z "
-         transform="translate(74.344549,996.48423)"
-         id="rect6566" />
-    </g>
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1.5272787,15.240661 c 0.00182,1.088718 6.6382578,2.564707 8.7564863,2.563103 h 0.0012 c 0.617611,0.0068 1.06245,-0.490651 1.314351,-1.178465 h 4.825146 V 13.85368 h -4.795889 c -0.241048,-0.67718 -0.691512,-1.171314 -1.374096,-1.178464 -2.3445195,0.0019 -8.7284572,1.582354 -8.7272002,2.565445 z"
+       id="rect6566"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

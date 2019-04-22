@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="29.088445"
-     inkscape:cy="17.036923"
+     inkscape:cx="19.774128"
+     inkscape:cy="17.485787"
      inkscape:document-units="px"
-     inkscape:current-layer="g12827"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -54,18 +54,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <g
-       transform="translate(-74.344549,23.877974)"
-       style="display:inline"
-       id="g12827"
-       inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
-       inkscape:export-xdpi="429.86514"
-       inkscape:export-ydpi="429.86514">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#fffffb;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 22.431641 2.5761719 C 19.098828 2.481996 9.5871278 11.915234 7.4570312 15.669922 C 6.6136423 17.107957 7.9295775 19.131863 9.9863281 20.830078 C 9.1480328 22.871426 8.5591755 25.260513 9.9707031 26.060547 C 11.380806 26.859702 13.036532 25.164775 14.302734 23.378906 C 16.643625 24.280615 18.880533 24.366618 19.785156 22.824219 C 22.299947 18.391319 25.370007 4.1058525 23.011719 2.7265625 C 22.848483 2.6310875 22.653828 2.5824503 22.431641 2.5761719 z "
-         transform="translate(74.344549,996.48423)"
-         id="path6441" />
-    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 29.180053,1022.0249 c 0.167202,0 0.314392,0.039 0.437231,0.1101 1.774683,1.0209 -0.535545,11.5952 -2.428002,14.8761 -0.680628,1.1415 -2.363779,1.0779 -4.125007,0.4108 -0.952837,1.3216 -2.200387,2.5756 -3.261476,1.9841 -1.062191,-0.592 -0.61852,-2.3603 0.0123,-3.8712 -1.548063,-1.2569 -2.539436,-2.7549 -1.904692,-3.8192 1.602962,-2.7793 8.761606,-9.7609 11.269648,-9.6911 z"
+       id="path517"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

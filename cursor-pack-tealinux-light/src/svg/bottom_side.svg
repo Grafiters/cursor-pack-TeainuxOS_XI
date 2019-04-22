@@ -32,11 +32,12 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5332">
     <rdf:RDF>
@@ -55,9 +56,9 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 15.679688 0.43945312 C 14.650002 0.43945312 13.254328 6.7193562 13.255859 8.7226562 C 13.249459 9.3069592 13.720202 9.7285859 14.371094 9.9667969 L 14.371094 22.017578 C 13.720202 22.255802 13.249459 22.677353 13.255859 23.261719 C 13.254328 25.265019 14.650002 31.542969 15.679688 31.542969 C 16.60944 31.544169 18.105722 25.506363 18.107422 23.289062 C 18.100656 22.643259 17.633282 22.218006 16.992188 21.990234 L 16.992188 9.9941406 C 17.633282 9.7663911 18.100656 9.3391318 18.107422 8.6933594 C 18.105722 6.4760594 16.60944 0.43835313 15.679688 0.43945312 z "
-       transform="translate(0,1020.3622)"
-       id="rect6566" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.73616761;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 15.998538,1029.8433 c -0.782052,0 -1.842073,4.481 -1.84091,5.9104 -0.0049,0.4169 0.352671,0.7178 0.847026,0.8878 v 8.5988 c -0.494355,0.1699 -0.851887,0.4708 -0.847026,0.8877 -0.0011,1.4295 1.058858,5.9091 1.84091,5.9091 0.706151,0 1.842584,-4.3074 1.843876,-5.8896 -0.0052,-0.4607 -0.360112,-0.7642 -0.847026,-0.9267 v -8.5598 c 0.486914,-0.1626 0.841887,-0.4674 0.847026,-0.9282 -0.0012,-1.5821 -1.137725,-5.8903 -1.843876,-5.8895 z"
+       id="rect6566"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

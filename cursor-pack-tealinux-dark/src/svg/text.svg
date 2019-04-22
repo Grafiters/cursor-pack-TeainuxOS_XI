@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="23.470225"
-     inkscape:cy="12.997347"
+     inkscape:cx="24.074132"
+     inkscape:cy="14.642227"
      inkscape:document-units="px"
      inkscape:current-layer="g12827"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -62,10 +62,11 @@
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
       <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#fffff1;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 15.494141 1.8300781 C 13.228721 1.8231531 10.954093 1.9522194 10.933594 2.2402344 C 10.936045 2.7295788 12.679544 3.8740497 14.269531 4.3359375 L 14.269531 27.158203 C 12.679544 27.620083 10.936045 28.762719 10.933594 29.251953 C 10.974538 29.827403 20.008738 29.77262 19.994141 29.253906 C 19.985143 28.801379 18.311535 27.605408 16.658203 27.144531 L 16.658203 4.3476562 C 18.311535 3.8866919 19.985143 2.6906727 19.994141 2.2382812 C 20.00143 1.9792479 17.753663 1.8369851 15.494141 1.8300781 z M 19.994141 2.2382812 C 19.994141 2.2382812 19.996094 2.2402344 19.996094 2.2402344 L 19.996094 2.2324219 C 19.996101 2.2339331 19.994171 2.2367526 19.994141 2.2382812 z M 19.994141 29.253906 C 19.994171 29.255435 19.996101 29.258254 19.996094 29.259766 L 19.996094 29.251953 C 19.996094 29.251953 19.994141 29.253906 19.994141 29.253906 z "
-         transform="translate(74.344549,996.48423)"
-         id="rect4251" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#fffff1;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 90.589131,1003.6661 c -1.434006,0 -2.87384,0.078 -2.886815,0.2596 0.0016,0.3098 1.105181,1.0342 2.11164,1.3267 v 14.4464 c -1.006459,0.2923 -2.110089,1.0156 -2.11164,1.3253 0.02591,0.3643 5.744544,0.3296 5.735303,0 -0.0057,-0.2864 -1.065085,-1.0436 -2.11164,-1.3353 v -14.4304 c 1.046555,-0.2918 2.105946,-1.0489 2.11164,-1.3352 0.0046,-0.164 -1.418217,-0.254 -2.848488,-0.2584 z"
+         id="rect4251"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
     </g>
   </g>
 </svg>

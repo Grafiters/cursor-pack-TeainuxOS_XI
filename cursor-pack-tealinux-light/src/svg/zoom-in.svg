@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="40.596094"
-     inkscape:cy="22.34503"
+     inkscape:zoom="15.839192"
+     inkscape:cx="23.03099"
+     inkscape:cy="17.77974"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,25 +56,25 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <g
-       id="g818">
+       id="g825">
       <path
          sodipodi:nodetypes="ccccccccccc"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000003;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 13.154202,1024.867 c -2.251163,-0.033 -4.419749,0.8579 -6.011736,2.4703 -3.253129,3.295 -3.253129,8.6372 0,11.9321 2.90131,2.9313 7.476576,3.2899 10.788556,0.8456 l 7.046373,6.9545 c 0.472618,0.4787 1.233526,0.4787 1.706146,0 l 0.11979,-0.1218 c 0.47262,-0.4787 0.47262,-1.2494 0,-1.7281 l -7.042158,-6.9507 c 2.414838,-3.3562 2.059334,-7.9932 -0.838101,-10.9316 -1.532474,-1.5521 -3.601859,-2.4383 -5.76887,-2.4703 z"
+         d="m 10.479665,1024.7173 c -1.5784276,-0.023 -3.0989558,0.6015 -4.2151952,1.7321 -2.2809675,2.3103 -2.2809675,6.0561 0,8.3663 2.0342858,2.0553 5.2422842,2.3068 7.5645162,0.5929 l 4.940643,4.8762 c 0.331381,0.3357 0.8649,0.3357 1.196283,0 l 0.08399,-0.085 c 0.331383,-0.3356 0.331383,-0.876 0,-1.2116 l -4.937687,-4.8736 c 1.69319,-2.3532 1.443924,-5.6045 -0.587644,-7.6648 -1.074511,-1.0883 -2.525484,-1.7096 -4.044908,-1.7321 z"
          id="path6786"
          inkscape:connector-curvature="0" />
       <circle
-         r="6.1638098"
-         cy="735.47192"
-         cx="-716.73572"
+         r="4.3218236"
+         cy="731.66876"
+         cx="-716.74329"
          id="circle6788"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14605388;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1024073;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          transform="matrix(0.70257553,-0.71160918,0.70257553,0.71160918,0,0)" />
       <path
          inkscape:connector-curvature="0"
          id="rect6790"
-         d="m 13.103811,1030.2504 c -0.375425,0 -0.677735,0.3073 -0.677735,0.6875 v 1.4708 h -1.453125 c -0.375425,0 -0.677734,0.3052 -0.677734,0.6855 v 0.6816 c 0,0.3803 0.302309,0.6875 0.677734,0.6875 h 1.453125 v 1.4707 c 0,0.3803 0.30231,0.6875 0.677735,0.6875 h 0.671875 c 0.375424,0 0.677734,-0.3072 0.677734,-0.6875 v -1.4707 h 1.453125 c 0.375425,0 0.677734,-0.3072 0.677734,-0.6875 v -0.6816 c 0,-0.3803 -0.302309,-0.6855 -0.677734,-0.6855 H 14.45342 v -1.4708 c 0,-0.3802 -0.30231,-0.6875 -0.677734,-0.6875 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         d="m 10.444333,1028.4919 c -0.263233,0 -0.4752013,0.2155 -0.4752013,0.4821 v 1.0313 H 8.950257 c -0.2632334,0 -0.4752008,0.214 -0.4752008,0.4806 v 0.4779 c 0,0.2667 0.2119674,0.4821 0.4752008,0.4821 h 1.0188747 v 1.0312 c 0,0.2666 0.2119683,0.482 0.4752013,0.482 h 0.471093 c 0.263232,0 0.475201,-0.2154 0.475201,-0.482 v -1.0312 h 1.018874 c 0.263234,0 0.475201,-0.2154 0.475201,-0.4821 v -0.4779 c 0,-0.2666 -0.211967,-0.4806 -0.475201,-0.4806 h -1.018874 v -1.0313 c 0,-0.2666 -0.211969,-0.4821 -0.475201,-0.4821 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35058057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>

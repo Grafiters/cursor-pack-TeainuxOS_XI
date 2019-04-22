@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="17.302622"
-     inkscape:cy="12.634946"
+     inkscape:cx="18.753191"
+     inkscape:cy="24.582579"
      inkscape:document-units="px"
      inkscape:current-layer="g12827"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -61,34 +61,39 @@
        inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 4.875 2.2421875 C 4.6526673 2.2483751 4.4582639 2.2965344 4.2949219 2.390625 C 1.9350929 3.749965 5.0070025 17.826712 7.5234375 22.195312 C 8.4284151 23.714969 10.666062 23.630165 13.007812 22.742188 C 14.274943 24.502572 15.934385 26.172481 17.345703 25.384766 C 18.758249 24.596299 18.167059 22.24233 17.328125 20.230469 C 19.38639 18.556818 20.705309 16.563752 19.861328 15.146484 C 17.729839 11.446172 8.2099907 2.149373 4.875 2.2421875 z "
-         transform="translate(74.344549,996.48423)"
-         id="path8326" />
       <g
-         id="g847"
-         transform="translate(-6.0714285,-1.3392857)">
+         id="g840">
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04598984;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#f5ffff;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle8338"
-           cx="105.41441"
-           cy="1020.3043"
-           r="5.1284213" />
+           cx="96.042038"
+           cy="1016.0933"
+           r="6.4649444" />
         <circle
-           r="4.2839208"
-           cy="1020.3043"
-           cx="105.41441"
+           r="4.5796094"
+           cy="1016.0933"
+           cx="96.042038"
            id="circle8340"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03841667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0410683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05047467;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09638599;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect8344"
-           width="1.0134007"
-           height="9.7654963"
-           x="795.49664"
-           y="642.04211"
+           width="1.231335"
+           height="11.865591"
+           x="785.82739"
+           y="644.7533"
            transform="rotate(45)" />
+      </g>
+      <g
+         transform="translate(74.344549,-23.892619)"
+         id="layer1-3"
+         inkscape:label="Layer 1"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path517"
+           d="m 2.8227259,1022.0249 c -0.1672027,0 -0.3143921,0.039 -0.4372317,0.1101 -1.774683,1.0209 0.5355459,11.5952 2.4280028,14.8761 0.680628,1.1415 2.363779,1.0779 4.125007,0.4108 0.9528363,1.3216 2.200387,2.5756 3.261476,1.9841 1.062191,-0.592 0.61852,-2.3603 -0.0123,-3.8712 1.548063,-1.2569 2.539436,-2.7549 1.904692,-3.8192 -1.602962,-2.7793 -8.761606,-9.7609 -11.2696485,-9.6911 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
   </g>

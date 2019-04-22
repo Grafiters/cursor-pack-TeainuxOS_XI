@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="33.067842"
-     inkscape:cy="21.740241"
+     inkscape:cx="7.3978967"
+     inkscape:cy="10.203676"
      inkscape:document-units="px"
      inkscape:current-layer="g12827"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -62,24 +62,24 @@
        inkscape:export-xdpi="429.86514"
        inkscape:export-ydpi="429.86514">
       <circle
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14899702;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path8310"
-         cx="90.63324"
-         cy="1012.5743"
-         r="13.230126" />
+         cx="90.355385"
+         cy="1012.746"
+         r="8.9184332" />
       <circle
-         r="11.051512"
-         cy="1012.5743"
-         cx="90.63324"
+         r="6.2324896"
+         cy="1012.746"
+         cx="90.355385"
          id="circle8312"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12446158;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07018998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16352691;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11462943;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect8314"
-         width="2.6143363"
-         height="25.192694"
-         x="778.77838"
-         y="639.31445"
+         width="1.8325806"
+         height="15.427464"
+         x="779.0495"
+         y="644.60413"
          transform="rotate(45)" />
     </g>
   </g>

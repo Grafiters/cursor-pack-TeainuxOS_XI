@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="context-menu.svg">
+   sodipodi:docname="default.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="10.199122"
-     inkscape:cy="17.132265"
+     inkscape:zoom="11.2"
+     inkscape:cx="23.204072"
+     inkscape:cy="16.715303"
      inkscape:document-units="px"
-     inkscape:current-layer="g12827"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -54,18 +54,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <g
-       transform="translate(-74.344549,23.877974)"
-       style="display:inline"
-       id="g12827"
-       inkscape:export-filename="/home/spooky/Downloads/capitaine-cursors/col-resize.png"
-       inkscape:export-xdpi="429.86514"
-       inkscape:export-ydpi="429.86514">
-      <path
-         style="opacity:1;fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 9.0625 3.2519531 C 8.8231345 3.2586149 8.6133556 3.3088569 8.4375 3.4101562 C 5.896885 4.8735863 9.2028914 20.031175 11.912109 24.734375 C 12.886501 26.370617 15.296972 26.280452 17.818359 25.324219 C 19.182424 27.218909 20.967297 29.015871 22.486328 28.167969 C 24.006931 27.31922 23.373758 24.782991 22.470703 22.617188 C 24.685677 20.815606 26.103719 18.669947 25.195312 17.144531 C 22.900531 13.160719 12.652983 3.1520261 9.0625 3.2519531 z "
-         transform="translate(74.344549,996.48423)"
-         id="path517" />
-    </g>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#00000b;stroke-width:1.43203557;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.7920523,1022.0287 c -0.1677185,0.01 -0.3153618,0.039 -0.4385803,0.1108 -1.78015673,1.0231 0.5371978,11.6204 2.4354915,14.9086 0.6827278,1.1438 2.3710711,1.08 4.1377308,0.4116 0.9557747,1.3246 2.2071737,2.5811 3.2715347,1.9884 1.065466,-0.5935 0.620428,-2.3655 -0.01234,-3.8797 1.552836,-1.2597 2.547269,-2.7608 1.910566,-3.8276 -1.607905,-2.7851 -8.7886303,-9.7818 -11.304408,-9.7121 z"
+       id="path517"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="26.064633"
-     inkscape:cy="20.093428"
+     inkscape:zoom="16"
+     inkscape:cx="27.836191"
+     inkscape:cy="16.300518"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -57,25 +57,25 @@
     <path
        inkscape:connector-curvature="0"
        id="path6470"
-       d="m 4.7773438,1023.3386 c -0.2335894,0.01 -0.4397161,0.055 -0.6113282,0.1543 -2.479306,1.4282 0.7487372,16.2207 3.3925782,20.8105 0.950898,1.5968 3.3011192,1.5075 5.7617182,0.5743 1.331193,1.8491 3.074135,3.6028 4.556641,2.7754 1.483696,-0.8282 0.863484,-3.3007 -0.01758,-5.4141 2.162721,-1.7585 3.548879,-3.8547 2.662109,-5.3438 -2.239403,-3.8877 -12.2402976,-13.6541 -15.7441382,-13.5566 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 2.5095729,1021.6821 c -0.1767599,0.01 -0.3327383,0.041 -0.4625991,0.1148 -1.87611922,1.0629 0.566578,12.0721 2.5672027,15.4879 0.7195553,1.1885 2.4979946,1.122 4.3599585,0.4275 1.007328,1.3761 2.326233,2.6813 3.448062,2.0655 1.12273,-0.6164 0.653408,-2.4565 -0.01331,-4.0293 1.636556,-1.3088 2.685477,-2.8689 2.014448,-3.9771 -1.694582,-2.8934 -9.262373,-10.1619 -11.9137692,-10.0893 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000004;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000004;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle6926"
-       cx="25.372713"
-       cy="1044.8073"
-       r="5.3610878" />
+       cx="23.028963"
+       cy="1040.651"
+       r="7.7335691" />
     <text
        transform="scale(0.99199234,1.0080723)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.31983471px;line-height:1.25;font-family:BeyondControl;-inkscape-font-specification:BeyondControl;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       x="23.571613"
-       y="1039.5061"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00173283px;line-height:1.25;font-family:BeyondControl;-inkscape-font-specification:'BeyondControl, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36063433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="20.321251"
+       y="1036.7396"
        id="text6934"><tspan
          sodipodi:role="line"
          id="tspan6932"
-         x="23.571613"
-         y="1039.5061"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.31983471px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">?</tspan></text>
+         x="20.321251"
+         y="1036.7396"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00173283px;font-family:BeyondControl;-inkscape-font-specification:'BeyondControl, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36063433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">?</tspan></text>
   </g>
 </svg>
