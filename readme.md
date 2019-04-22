@@ -1,6 +1,6 @@
 ## Tea Cursors Pack
 
-    ![](update.PNG)
+![](update.PNG)
 
    > ```Tea Cursors Pack``` adalah paket cursor yang baru dikembangkan oleh para ```DEVELOPER DOSCOM``` yang bersamaan dengan update SISTEM OPERASI distro `TEALINUXOS XI`
 
